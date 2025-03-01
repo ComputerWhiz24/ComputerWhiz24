@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @ComputerWhiz24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey there! 👋 I'm ComputerWhiz24!
+
+🚀 IT Intern | CS & Math Student @ UBC
+
+🎮 Interested in Game Development 
+
+💻 Currently working on a 2D Action-Adventure Game in Java
+
+🎯 Trying to balance school, gym, coding, and life (send help 😅)
+
+💡 I have way too many side project ideas and not enough time
+
+🛠️ Getting 1% better every day
 
 <!---
 ComputerWhiz24/ComputerWhiz24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
