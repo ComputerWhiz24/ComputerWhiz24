@@ -4,7 +4,7 @@ Hey there! 👋 I'm ComputerWhiz24!
 
 🎮 Interested in Game Development 
 
-💻 Currently working on a 2D Action-Adventure Game in Java
+💻 Currently working on a 2D Action-Adventure Game in Java and a website portfolio
 
 🎯 Trying to balance school, gym, coding, and life (send help 😅)
 
